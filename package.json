@@ -1,0 +1,21 @@
+{
+  "name": "p18",
+  "version": "0.1.0",
+  "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "license": "CC0 1.0",
+  "description": "Metadatenprofile: Deutsch HSA 2004",
+  "scripts": {
+    "validate": "validate-md-profile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/p18.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/p18/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/p18#readme",
+  "dependencies": {
+    "@iqb/validate-md-profile": "^0.7.5"
+  }
+}
