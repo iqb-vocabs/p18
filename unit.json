@@ -74,7 +74,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v28/tt/",
+            "url": "https://w3id.org/iqb/v28/ts/",
             "allowMultipleValues": false,
             "hideNumbering": true
           }
@@ -89,22 +89,9 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v25/te/",
+            "url": "https://w3id.org/iqb/v28/ss/",
             "allowMultipleValues": false,
             "hideNumbering": true
-          }
-        },
-        {
-          "id": "iqb_other_text_type",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Andere Textsorte"
-            }
-          ],
-          "type": "text",
-          "parameters": {
-            "format": "single"
           }
         },
         {
